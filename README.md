@@ -17,3 +17,9 @@ Este projeto foi desenvolvido para demonstrar o uso dos padrões de projeto **Si
 2. Clone este repositório:
    ```bash
    git clone https://github.com/Nicolas-Dalfovo/Trabalho_4.git
+3. Navegue até o diretório do projeto:
+   ```bash
+   cd sistema-registro-decorador-singleton
+4. Execute o programa:
+      ```bash
+      python main.py
