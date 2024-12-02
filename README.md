@@ -19,7 +19,10 @@ Este projeto foi desenvolvido para demonstrar o uso dos padrões de projeto **Si
    git clone https://github.com/Nicolas-Dalfovo/Trabalho_4.git
 3. Navegue até o diretório do projeto:
    ```bash
-   cd sistema-registro-decorador-singleton
+   cd Trabalho_4
 4. Execute o programa:
       ```bash
       python main.py
+
+# Desenvolvedores
+   @Nicolas_Dalfovo
