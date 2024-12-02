@@ -64,7 +64,7 @@ class CorDecorator(RelatorioDecorator):
 # Menu do Sistema
 def main():
     print("Sistema de Registro de Usuários")
-    print("Desenvolvido por: [Seu Nome Aqui]\n")
+    print("Desenvolvido por: [Nicolas Marquez Dalfovo]\n")
 
     registro = RegistroUsuarios()
 
